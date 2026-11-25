@@ -6,7 +6,7 @@ Computer engineer and designer. I build web applications that solve real problem
 - 🎨 Graphic designer with years of experience in e-commerce: branding, packaging, product visuals and social media
 - 💻 I build full-stack web apps with Python and Flask, with the help of AI tools like Claude
 - 🤝 Volunteering at a cultural center for university students for about 10 years
-- 🌐 Portfolio: [ervakabil.com](https://ervakabil.com)
+- 🌐 Portfolio: [ervakabil.com](https://www.ervakabil.com)
 
 ## Projects
 
